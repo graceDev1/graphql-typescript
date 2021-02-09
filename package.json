@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "this is a try graphql and typescript",
-  "main": "src/main.js",
+  "main": "dist/main.js",
   "scripts": {
     "start": "node dist/main.js",
     "dev": "nodemon src/main.ts",
