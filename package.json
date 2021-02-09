@@ -6,8 +6,7 @@
   "scripts": {
     "start": "node dist/main.js",
     "dev": "nodemon src/main.ts",
-    "build": "tsc -p .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc -p ."
   },
   "keywords": [
     "heroku"
